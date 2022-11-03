@@ -103,3 +103,4 @@ Adding these settings for VSCode.
 If `editor.formatOnSave` is true and prettier is installed either local or global, the source code is automatically formatted on save.
 
 `[javascript]` means those settings is valid only when the edited file type is JavaScript.
+# Skool-tdd
